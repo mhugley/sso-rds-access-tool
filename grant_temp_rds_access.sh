@@ -5,7 +5,7 @@
 ############################################################
 # 🌟 AWS RDS Temp Access Script
 # ----------------------------------------------------------
-# 🔧 Author: Mark (Senior Lead Cloud Engineer)
+# 🔧 Author: Mark Hugley
 # 📅 Created: May 2025
 # 📄 Purpose: Grant temporary 1-hour RDS access to AWS SSO 
 #             users via dynamically created permission sets
